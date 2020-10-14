@@ -22,10 +22,10 @@ Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm Priyansh <img src="https://raw.githubuser
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://www.instagram.com/priyansh_so_cool/" alt="Instagram" target="_blank"><img src="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/8b1907046ac458f7b323c351d0eba81d13945804/asset/instagram.svg" height="30px" width="30px"></a>
-  <a href="https://www.linkedin.com/in/PriyanshTri" alt="Linkedin" target="_blank"><img src="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/8b1907046ac458f7b323c351d0eba81d13945804/asset/linkedin.svg" height="30px" width="30px"></a>
-    <a href="https://www.facebook.com/priyansh.tri/" alt="facebook" target="_blank"><img src="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/8b1907046ac458f7b323c351d0eba81d13945804/asset/facebook.svg" height="30px" width="30px"></a>
-    <a href="https://twitter.com/ManiPriyansh" alt="Twitter" target="_blank"><img src="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/8b1907046ac458f7b323c351d0eba81d13945804/asset/twitter.svg" height="30px" width="30px"></a>    
-    <a href="mailto:PriyanshTripathi007@gmail.com" alt="Email me" target="_blank"><img src="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/8b1907046ac458f7b323c351d0eba81d13945804/asset/mail.svg" height="30px" width="30px"></a>
+    <a href="https://www.instagram.com/priyansh_so_cool/" alt="Instagram" target="_blank"><img src="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/c77c4ca9c67d943545606336b6bfbdc33da817eb/asset/instagram.svg"></a>
+  <a href="https://www.linkedin.com/in/PriyanshTri" alt="Linkedin" target="_blank"><img src="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/c77c4ca9c67d943545606336b6bfbdc33da817eb/asset/linkedin.svg"></a>
+    <a href="https://www.facebook.com/priyansh.tri/" alt="facebook" target="_blank"><img src="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/c77c4ca9c67d943545606336b6bfbdc33da817eb/asset/facebook.svg" ></a>
+    <a href="https://twitter.com/ManiPriyansh" alt="Twitter" target="_blank"><img src="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/c77c4ca9c67d943545606336b6bfbdc33da817eb/asset/twitter.svg"></a>    
+    <a href="mailto:PriyanshTripathi007@gmail.com" alt="Email me" target="_blank"><img src="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/c77c4ca9c67d943545606336b6bfbdc33da817eb/asset/mail.svg"></a>
   </p>
 </p>
