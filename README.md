@@ -1,8 +1,8 @@
 
 <h1 allign="center">
-Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm Priyansh <img src="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/main/asset/hi.gif" width="30px">
+Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm Priyansh <img src="https://github.com/PriyanshTri/PriyanshTri/blob/main/asset/hi.gif?raw=true">
 </h1>
-<img align="right" height="250" width="375" alt="GIF" src="https://github.com/PriyanshTri/PriyanshTri/blob/main/asset/eat_sleep_code_repeat.gif?raw=true" />
+<img align="right" alt="GIF" src="https://github.com/PriyanshTri/PriyanshTri/blob/main/asset/eat_sleep_code_repeat.gif?raw=true" />
 
 - 🔭 I’m currently working on **Web Development and ethical hacking**
 - 🌱 I’m currently learning **about life**
@@ -11,6 +11,7 @@ Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm Priyansh <img src="https://raw.githubuser
 - 💬 Ask me **something interesting**
 - 💕 Hobby   :  **coding, Biking, Photography**
 - ⚡ Fun fact: I live on **caffeine** and **memes**
+- 👍 Trying to be :  **perfect in every aspect of my life**
 <br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PriyanshTri)
