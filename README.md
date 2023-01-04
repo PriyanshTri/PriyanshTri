@@ -3,9 +3,9 @@
 Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm Priyansh <img src="https://github.com/PriyanshTri/PriyanshTri/blob/main/asset/hi.gif?raw=true">
 </h1>
 <img align="right" alt="GIF" src="https://github.com/PriyanshTri/PriyanshTri/blob/main/asset/eat_sleep_code_repeat.gif?raw=true" />
-- 👷‍♂️ Works at **Nirvana Solutions**
+
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **about life**
+- 👷‍♂️ I’m Working at **Nirvana Solutions**
 - 👯 I’m looking to collaborate on **anything that excites me**
 - 🤔 I’m looking for help in **keeping my s\*\*\* together**
 - 💬 Ask me **something interesting**
