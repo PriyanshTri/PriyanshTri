@@ -1,31 +1,122 @@
-# 💫 About Me:
-🔭 I’m currently working on Connectify<br>👯 I’m looking to collaborate on Frontend technology<br>🌱 I’m currently learning nextJS  and expressJS<br>💬 Ask me about technology<br>⚡ Fun fact I have coffee flowing in my bloodstream
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,8,20,30&height=200&section=header&text=Priyansh%20Tripathi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Creative%20Front-End%20Engineer%20%E2%9A%A1%20Pixel%20Perfectionist&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="header"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyansh_so_cool) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshtri) 
+<a href="https://priyanshtri.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=720&lines=Crafting+dynamic+UIs+with+React+%26+Redux;Turning+caffeine+into+pixel-perfect+code+%E2%98%95;Currently+building+%E2%80%94+Connectify;Always+shipping%2C+always+learning." alt="Typing SVG"/>
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priyanshtri&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshtri&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshtri&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<a href="https://priyanshtri.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white"/></a>
+<a href="https://linkedin.com/in/priyanshtri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/ManiPriyansh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/priyansh_so_cool"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=PriyanshTri&label=Profile%20visits&color=61DAFB&style=for-the-badge"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyanshtri&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=priyanshtri&icon=6&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/priyanshtrip) 
+### 🧑‍💻 `whoami`
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+name:       Priyansh Tripathi
+role:       Front-End Engineer @ Nirvana Solutions
+location:   Gorakhpur, India 🇮🇳  (UTC +05:30)
+
+current_focus:
+  - 🔭 Building → Connectify
+  - 🌱 Leveling up → Next.js & Express.js
+  - 👯 Open to collab on → Frontend things that look good and feel great
+  - 💬 Ask me about → React, Redux, clean component architecture
+
+philosophy: "Ship it, polish it, then ship a better version next week."
+fun_fact:   "I have coffee flowing in my bloodstream ☕"
+```
+
+---
+
+### 🛠️ The Toolbelt
+
+<div align="center">
+
+#### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass" alt="languages"/>
+
+#### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,bootstrap,tailwind,materialui,vite" alt="frameworks"/>
+
+#### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,netlify,npm" alt="tools"/>
+
+</div>
+
+---
+
+### 📊 The Numbers
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshtri&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshtri&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshtri&theme=tokyonight&hide_border=true"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshtri&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+### 🏆 Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshtri&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
+
+</div>
+
+---
+
+### 🐍 The Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<sub><i>Tip: drop the snake action into <code>.github/workflows/snake.yml</code> to make this animate. ✨</i></sub>
+
+</div>
+
+---
+
+### 💭 Quote of the Build
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ☕ Like my work?
+
+<a href="https://buymeacoffee.com/priyanshtrip">
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy me a coffee"/>
+</a>
+
+<br/><br/>
+
+<i>Thanks for stopping by — now go build something cool. 🚀</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,8,20,30&height=100&section=footer"/>
+
+</div>
