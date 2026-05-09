@@ -89,8 +89,6 @@ fun_fact:   "I have coffee flowing in my bloodstream ☕"
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PriyanshTri/PriyanshTri/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-<sub><i>Tip: drop the snake action into <code>.github/workflows/snake.yml</code> to make this animate. ✨</i></sub>
-
 </div>
 
 ---
