@@ -36,10 +36,10 @@ current_focus:
   - 🛠️ Recently shipped → Unit tests for backend services(14+) with code coverage of 85%+ and created an Azure pipeline for testing of frontend/backend service  
   - 🌱 Exploring → MCP servers · system design at scale
   - 🤖 Side quests → n8n automations & Telegram bot integrations
-  - 💬 Ask me about → React, DotNet, FIX 4.4, distributed systems, fintech UI
+  - 💬 Ask me about → React, DotNet, ATDL, Unit testing,Azure Devops pipeline, fintech UI
 
 background:
-  - 🎓 B.Tech, Poornima College of Engineering — CGPA 8.08 / 10
+  - 🎓 B.Tech, GLA University, Mathura — CGPA 8.08 / 10
 
 philosophy:   "Ship it, polish it, then ship a better version next week."
 fun_fact:     "I have coffee flowing in my bloodstream ☕"
