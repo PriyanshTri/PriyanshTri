@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,8,20,30&height=200&section=header&text=Priyansh%20Tripathi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Trading%20Systems%20%C2%B7%20Pixel%20Perfectionist&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="header"/>
 
 <a href="https://priyanshtri.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=760&lines=Building+electronic+trading+systems+by+day;Crafting+pixel-perfect+UIs+by+night;Java+%2B+Spring+Boot+%E2%9D%A4%EF%B8%8F+React+%2B+TypeScript;Currently+building+%E2%80%94+Connectify;Always+shipping%2C+always+learning." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=760&lines=Building+trading+systems+by+day;Crafting+pixel-perfect+UIs+by+night;%E2%9D%A4%EF%B8%8F+React+%2B+TypeScript;Currently+building+%E2%80%94+Connectify;Always+shipping%2C+always+learning." alt="Typing SVG"/>
 </a>
 
 <br/>
